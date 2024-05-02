@@ -1,0 +1,12 @@
+.tweet-list{
+    list-style-type: none;
+}
+.name{
+    color: red;
+}
+.username{
+    color: purple;
+}
+.date{
+    font-weight: bold;
+}
